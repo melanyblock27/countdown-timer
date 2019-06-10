@@ -1,0 +1,29 @@
+#header {
+  font-size: 95px;
+  display: flex;
+  justify-content: center;
+  color: white;
+}
+
+body {
+  background-color: #FFCDC2;
+}
+
+* {
+  font-family: 'Cutive Mono', monospace;
+}
+
+#demo {
+  border: solid;
+  border-color: black;
+  height: 115px;
+  width: 700px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  border-radius: 100px;
+  margin-left: 25%;
+  font-size: 50px;
+  color: white;
+  background-color: #C4817E;
+}
